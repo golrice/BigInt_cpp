@@ -20,7 +20,7 @@
 1. 克隆代码库：
    ```bash
    git clone <repository-url>
-   cd BigInt
+   cd BigInt_cpp
    ```
 
 2. 将 `BigInt.h` 和 `BigInt.cpp` 文件添加到你的项目中。

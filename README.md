@@ -20,7 +20,7 @@ To include the `BigInt` library in your project, follow these steps:
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd BigInt
+   cd BigInt_cpp
    ```
 
 2. Add the `BigInt.h` and `BigInt.cpp` files to your project.
